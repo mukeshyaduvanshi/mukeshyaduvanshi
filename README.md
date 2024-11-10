@@ -16,10 +16,10 @@
     <a href="mailto:mmukesh1508@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/myaduvanshi1508">
+    <a href="https://instagram.com/mukeshyaduvanshi1508">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=myaduvanshi&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mukeshyaduvanshi&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
   </div>
 
   <!-- Divider -->
@@ -81,10 +81,10 @@
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=myaduvanshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myaduvanshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mukeshyaduvanshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshyaduvanshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myaduvanshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin-top: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshyaduvanshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin-top: 20px;"/>
 </div>
 
 <!-- Footer -->
