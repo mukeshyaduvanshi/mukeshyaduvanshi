@@ -16,7 +16,7 @@
     <a href="mailto:mmukesh1508@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://instagram.com/mukeshyaduvanshi1508">
+    <a href="https://instagram.com/myaduvanshi1508">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=mukeshyaduvanshi&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
